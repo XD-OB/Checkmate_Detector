@@ -2,15 +2,19 @@ Your King is alone with a banch of differente ennemies, he is done? (checkmate) 
 
 Usage: ./check [Each line of the board as argument]           (ex: .K P.)
 
-#H: Horse
+# H: Horse
 
-.x.x.
-x...x
-..H..
-x...x
-.x.x.
+. x . x .
 
-#Q: Queen
+x . . . x
+
+. . H . .
+
+x . . . x
+
+. x . x .
+
+# Q: Queen
 
 x.x.x
 .xxx.
@@ -18,7 +22,7 @@ xxQxx
 .xxx.
 x.x.x
 
-#B: Bishop
+# B: Bishop
 
 x...x
 .x.x.
@@ -26,7 +30,7 @@ x...x
 .x.x.
 x...x
 
-#R: Rock
+# R: Rock
 
 ..x..
 ..x..
@@ -34,7 +38,7 @@ xxRxx
 ..x..
 ..x..
 
-#P: Pion
+# P: Pion
 
 .x.x.
 ..P..

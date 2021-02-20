@@ -11,9 +11,13 @@ and what's is the possibles moves and the better ones, or he is safe?
 ### H: Horse
 
 `. x . x .
+
 x . . . x
+
 . . H . .
+
 x . . . x
+
 . x . x .`
 
 ### Q: Queen
